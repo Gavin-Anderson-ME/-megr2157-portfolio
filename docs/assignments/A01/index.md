@@ -9,9 +9,9 @@ Portfolio analysis on Katie Heinmann. This portfolio is organized very well by s
 ## Task B:  Product Analysis
 
 ## Decide
-1. Homepage identity- The purpose of the homepage of my portfolio is to set a professional tone to the reader and to not come off as a project display page. The reader should know by reading the homepage what MEGR 2156 is and the focus of the class to understand what is being displayed.
-2. Initial customization-
-3. Documentation standards-
+1. Homepage identity- The purpose of the homepage of my portfolio is to set a professional tone to the reader and to not come off as a project display page. The reader should know by reading the homepage what MEGR 2156 is and the focus of the class to understand what is being displayed. The homepage should also show the standard that my portfolio should be held to, and I want that to be clearly known to the reader as the look my homepage. The home page should also not be overwhelming for the reader to understand and be easily maneuverable to a new viewer.
+2. Initial customization- The customization that I decided to change was changing the section label from 2157 to MEGR 2156 because that is the actual class section that I am in. I also used the change to help explain what exactly MEGR 2156 is and what the reader should expect.
+3. Documentation standards- All of the assignments that I summit and my portfolio as a whole should clearly explain the assignment in a way that anyone no matter what their background can understand what is being presented or explained. 
 
 ## Communicate
 Most of the communicate part of this assignment can be found in the about me section of my portfolio this will have my professional introduction and "defend a decision" response.
