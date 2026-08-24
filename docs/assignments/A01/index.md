@@ -9,7 +9,9 @@ Portfolio analysis on Katie Heinmann. This portfolio is organized very well by s
 ## Task B:  Product Analysis
 
 ## Decide
-
+1. Homepage identity-
+2. Initial customization-
+3. Documentation standards-
 
 ## Communicate
 
