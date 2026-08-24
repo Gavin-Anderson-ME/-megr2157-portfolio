@@ -14,4 +14,6 @@ Portfolio analysis on Katie Heinmann. This portfolio is organized very well by s
 3. Documentation standards-
 
 ## Communicate
+Most of the communicate part of this assignment can be found in the about me section of my portfolio this will have my professional introduction and "defend a decision" response.
+
 
