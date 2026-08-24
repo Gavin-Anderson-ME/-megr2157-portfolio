@@ -15,6 +15,7 @@ Portfolio analysis on Katie Heinmann. This portfolio is organized very well by s
 3. Documentation standards- All of the assignments that I summit and my portfolio as a whole should clearly explain the assignment in a way that anyone no matter what their background can understand what is being presented or explained. 
 
 ## Communicate
-Most of the communicate part of this assignment can be found in the about me section of my portfolio this will have my professional introduction and "defend a decision" response.
+Most of the communicate part of this assignment can be found in the about me section of my portfolio this will have my professional introduction.
 
-
+"What does it mean to defend an engineering decision : and do you currently know how to do it? 
+To defend an engineering decision is to be able explain and stand by the decision that you made.
