@@ -8,8 +8,40 @@ Portfolio analysis on Katie Heinmann. This portfolio is organized very well by s
 
 ## Task B:  Product Analysis
 product analysis-Mechanical pencil
+
 a. The primary function of a mechanical pencil is to use a input force from someone to the use of the graphite in the pencil. Mechanically it uses transmission and displacement through the use of a clutch mechanism that will release lead when the user applies force.
+
 ![Mechanical Pencil](IMG_3297.jpeg)
+
+b. Governing model
+![governing model](IMG_3298.jpeg)
+
+This model shows how the spring compresses when the button is pushed in allowing the clutch to open letting the lead out.
+assumption for model validity- The spring is an elastic that has a small range of motion that allows the displacement of the lead by using Hooke's law.
+
+C.
+Outer cylinder
+![outer cylinder](IMG_3301.jpeg)
+The outer cylinder holds all of the components and is one straight axis that is used to store the lead and used to allow control over the pencil.
+
+clutch
+![Clutch](IMG_3302.jpeg)
+The clutch jaws are what allows the lead to flow out of the pencil when they open the lead can come forward and will not open unless force it applied for them to open.
+
+Tip
+![Tip](IMG_3299.jpeg)
+The tip acts as a funnel for a fixed path for the lead to move down to allow the lead to be aligned with the clutch and to allow the user precision when writing.
+
+d. patent research
+Patent number- US5567068A-mechanical pencil-Inventor- Masayuki Takahashi
+
+i. alternative devices
+wooden pencil- the wooden pencil can do the exact same thing the mechanical one can it is just made from different materials and lacks the mechanical system.
+Advance pencil- is a pencil that uses a screw mechanism to allow the lead to move.
+
+ii. design decision
+The patent uses a tapered clutch jaw. The shape of the jaw allows it to open when the spring is compressed and causes it to close when the spring is released. The engineer would decide to use this because it is very reliable and can repeat the same action over and over and sustain minimal wear and tear. The clutch system also improves the precision of the device making it easier to use by the user.
+
 
 ## Decide
 1. Homepage identity- The purpose of the homepage of my portfolio is to set a professional tone to the reader and to not come off as a project display page. The reader should know by reading the homepage what MEGR 2156 is and the focus of the class to understand what is being displayed. The homepage should also show the standard that my portfolio should be held to, and I want that to be clearly known to the reader as the look my homepage. The home page should also not be overwhelming for the reader to understand and be easily maneuverable to a new viewer.
