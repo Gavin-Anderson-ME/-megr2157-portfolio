@@ -53,3 +53,5 @@ Most of the communicate part of this assignment can be found in the about me sec
 
 "What does it mean to defend an engineering decision : and do you currently know how to do it? 
 To defend an engineering decision is to be able explain and stand by the decision that you made. It means that the knowledge to know why the decision was made or how u got to a certain point. It forces you to be able to communicate and articulate research and information that help justify the decision you made. I do not think that I currently know how to properly defend my decision.
+
+This assignment took me around 6-8 hours to complete. 
