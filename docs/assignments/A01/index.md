@@ -9,7 +9,7 @@ Portfolio analysis on Katie Heinmann. This portfolio is organized very well by s
 ## Task B:  Product Analysis
 product analysis-Mechanical pencil
 a. The primary function of a mechanical pencil is to use a input force from someone to the use of the graphite in the pencil. Mechanically it uses transmission and displacement through the use of a clutch mechanism that will release lead when the user applies force.
-![Mechanical Pencil](image-filename.jpg)
+![Mechanical Pencil](IMG_3297.jpeg)
 
 ## Decide
 1. Homepage identity- The purpose of the homepage of my portfolio is to set a professional tone to the reader and to not come off as a project display page. The reader should know by reading the homepage what MEGR 2156 is and the focus of the class to understand what is being displayed. The homepage should also show the standard that my portfolio should be held to, and I want that to be clearly known to the reader as the look my homepage. The home page should also not be overwhelming for the reader to understand and be easily maneuverable to a new viewer.
