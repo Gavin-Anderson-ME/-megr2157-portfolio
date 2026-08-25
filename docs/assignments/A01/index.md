@@ -7,7 +7,9 @@ Portfolio analysis on NateKarau61. This portfolio is set up very well and can be
 Portfolio analysis on Katie Heinmann. This portfolio is organized very well by spacing out and listing information and projects in an orderly fashion and giving descriptions of each area. There is a lot of information on this portfolio making it harder to navigate in a short amount of time and find specific information. This portfolio has in depth documentation on the work that they have done allowing any reader or colleague to take the information and replicate the work without any further questions. This portfolio shows their decision-making process and the trail and setbacks that they had to get over to the final product. The documentation of this portfolio would meet all professional standards that an employer would want by the language and layout of the portfolio.  
 
 ## Task B:  Product Analysis
-
+product analysis-Mechanical pencil
+a. The primary function of a mechanical pencil is to use a input force from someone to the use of the graphite in the pencil. Mechanically it uses transmission and displacement through the use of a clutch mechanism that will release lead when the user applies force.
+![Mechanical Pencil](image-filename.jpg)
 
 ## Decide
 1. Homepage identity- The purpose of the homepage of my portfolio is to set a professional tone to the reader and to not come off as a project display page. The reader should know by reading the homepage what MEGR 2156 is and the focus of the class to understand what is being displayed. The homepage should also show the standard that my portfolio should be held to, and I want that to be clearly known to the reader as the look my homepage. The home page should also not be overwhelming for the reader to understand and be easily maneuverable to a new viewer.
