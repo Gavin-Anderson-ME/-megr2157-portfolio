@@ -8,11 +8,11 @@ The Distance of a is .4 meters, the distance of b is .3 meters, and the force of
 
 ![extneral forces](IMG_3322.jpeg)
 
-![internal stress calc](image-filename.jpg)
+![internal stress calc](IMG_3323.jpeg)
 
-![internal stress num](image-filename.jpg)
+![internal stress num](IMG_3324.jpeg)
 
-![yield strength](image-filename.jpg)
+![yield strength](IMG_3326.jpeg)
 
 ## Objective 
 
