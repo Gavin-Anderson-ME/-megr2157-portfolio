@@ -12,8 +12,9 @@ For my truss system I went for a simple design that created more in the middle o
 Now I started to solve the external forces on the truss system. I stated with the forces in the x direction with no other forces other that Ax the force was 0. Then I solved for the moment of the A pin so that I could get the unknown By. Then finally I used all of the components to solve for the sum of force in the Y direction giving me the last unknown of Ay.
 ![internal stress calc](IMG_3323.jpeg)
 ![internal stress num](IMG_3324.jpeg)
-I then used
+I then solved for the internal stress in the truss system. The first picture is of the equations and format that I used to get the internal force of each bar. The second picture is the numerical values of each bar and weather they were in compression or tension.
 ![yield strength](IMG_3326.jpeg)
+I used the normal stress equation to solve for the cross-sectional area of the truss. I plugged in the strength of A500 steel and the max force to find the cross-sectional area. I then time the area by 3.5 as the safety factor. I then used this number to solve for both the mass and the weight of the truss.
 
 ## Objective 
 
