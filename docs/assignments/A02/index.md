@@ -9,7 +9,7 @@ For my truss system I went for a simple design that created more in the middle o
 
 ![external forces](IMG_3322.jpeg)
 
-Now I started to solve the external forces on the truss system.
+Now I started to solve the external forces on the truss system. I stated with the forces in the x direction with no other forces other that Ax the force was 0. Then I solved for the moment of the A pin so that I could get the unknown By. Then finally I used all of the components to solve for the sum of force in the Y direction giving me the last unknown of Ay.
 ![internal stress calc](IMG_3323.jpeg)
 
 ![internal stress num](IMG_3324.jpeg)
