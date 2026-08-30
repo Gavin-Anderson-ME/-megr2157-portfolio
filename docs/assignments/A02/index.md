@@ -6,6 +6,8 @@ The Distance of a is .4 meters, the distance of b is .3 meters, and the force of
 
 ![my truss system](IMG_3321.jpeg)
 
+![extneral forces](IMG_3322.jpeg)
+
 
 ## Objective 
 
