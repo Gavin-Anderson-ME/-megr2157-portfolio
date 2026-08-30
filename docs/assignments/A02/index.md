@@ -3,7 +3,8 @@ For this assignment, I have to design a 3D truss system based of this image.
 ![truss](trussjpeg.jpg)
 
 The Distance of a is .4 meters, the distance of b is .3 meters, and the force of P is 20 kN. The point B is a roller, and the point A is a pin. The pin A also has a fixed position on the wall. The truss system also must be made from a A500 structural steel. To start the design process, I looked at the external force that would be acting on the system. I then decided to design my truss system. I made a connection between all of the points and the made a triangle connection on the middle to provide extra support.
-![my truss system](image-filename.jpg)
+
+![my truss system](IMG_3321.jpeg)
 
 
 ## Objective 
