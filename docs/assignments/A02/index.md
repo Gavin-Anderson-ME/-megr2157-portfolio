@@ -16,6 +16,20 @@ I then solved for the internal stress in the truss system. The first picture is 
 ![yield strength](IMG_3326.jpeg)
 I used the normal stress equation to solve for the cross-sectional area of the truss. I plugged in the strength of A500 steel and the max force to find the cross-sectional area. I then time the area by 3.5 as the safety factor. I then used this number to solve for both the mass and the weight of the truss.
 
+![Description of image](image-filename.jpg)
+
+![Description of image](image-filename.jpg)
+
+![Description of image](image-filename.jpg)
+
+![Description of image](image-filename.jpg)
+
+![Description of image](image-filename.jpg)
+
+![Description of image](image-filename.jpg)
+
+![Description of image](image-filename.jpg)
+
 ## Objective 
 
 
