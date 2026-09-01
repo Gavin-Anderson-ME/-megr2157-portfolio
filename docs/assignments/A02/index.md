@@ -22,7 +22,7 @@ I used the normal stress equation to solve for the cross-sectional area of the t
 
 ![beam](beam-cad.jpg)
 
-![pin](Screenshot 2026-08-31 133653.jpeg)
+![pin](pin-cad.jpg)
 
 ![full truss](truss-pic.jpg)
 
