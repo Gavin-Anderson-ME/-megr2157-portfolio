@@ -17,27 +17,28 @@ I then solved for the internal stress in the truss system. The first picture is 
 I used the normal stress equation to solve for the cross-sectional area of the truss. I plugged in the strength of A500 steel and the max force to find the cross-sectional area. I then time the area by 3.5 as the safety factor. I then used this number to solve for both the mass and the weight of the truss.
 
 ![shear of pin](IMG_3335.jpeg)
+I used the forces on the pin to solve the unknown internal forces on the pin. I then solved for the shear force on the pins and the called the diameter from getting the area. Then I used the diameter and area of the pins to solve for the weight of the pins.
 
 ![length of beams](IMG_3334.jpeg)
+This is a representation of how the beams with be set up the double line marks represent and h side of the beams and the one line side are the straight flat ends of the beams. Each side of the beams will have holes that fit the pin sizes.
 
 ![beam](beam-cad.jpg)
+This is a photo of what the beams will look like I have 3 different sized beam being .5 m,.6m and .4m. 
 
 ![pin](pin-cad.jpg)
+This is a photo of the pin that will hold all of the beams in the assembly together.
 
 ![full truss](truss-pic.jpg)
+This is a photo of the whole truss system put together, and zip file of all of the parts and the assembly are attached in the file area of this assignment.
 
 ![full truss calc](truss-cad-calc.jpg)
+These are the CADs system analysis on the truss system.
 
 ![Cad weight](IMG_3333.jpeg)
+These are the weight and mass calculations that used the numbers that were taken from the cad system. I used the numbers from the cad system and then did my own calculations for the rest.
 
-## Objective 
+LESSON Learned
 
+During this assignment I learned how to design a truss system and how to deal with different failures in the cad system and had to rethink my design and the way I did things multiple times. I also learned how different material reacts with forces and strain.
 
-## Analyze
-
-
-## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
-
-## Communicate
 
