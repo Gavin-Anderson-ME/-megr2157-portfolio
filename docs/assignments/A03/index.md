@@ -14,7 +14,7 @@ Here is an image of the beam after imputing the numbers from the calculations th
 ![Description of image](beam-stress.jpg)
 This is an image of the stress that it exerted onto the beam. A chart of the about of stress is also included in the image.
 
-![Description of image](beam displacment.jpg)
+![Description of image](beamdisplacment.jpg)
 
 This is an image of how much displcament the beam underwnt becuse of the force. It also has a chart displaing its diplment number.
 
