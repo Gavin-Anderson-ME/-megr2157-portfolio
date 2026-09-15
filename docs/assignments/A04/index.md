@@ -3,21 +3,24 @@
 ## Feature 1
 In this section I went over all of the unknowns and knowns I also chose PET as my material. I then drew a free body diagram of the two features for the motor mount. after that I did the symbolic equations for the first feature. I then used those equations by plugging in numbers to get the base and height of each part to make sure they stay in the parameters.
 
-![Description of image](image-filename.jpg)
+![symbol](IMG_3388.jpeg)
 
-![Description of image](image-filename.jpg)
+This image is of the Freebody diagram and knowns and unknowns and also the symbolic equations for feaure 1.
+![1-numbers](IMG_3387.jpeg)
+
+This is an image of numerical values from the equations above.
 
 ## Feature 2
-![Description of image](image-filename.jpg)
+![2-symbol](IMG_3389.jpeg)
 
-![Description of image](image-filename.jpg)
+![2 numbers](IMG_3386.jpeg)
 
 ## Sketch
-![Description of image](image-filename.jpg)
+![sketch](IMG_3385.jpeg)
 
 ## CAD Model
-![Description of image](image-filename.jpg)
-![Description of image](image-filename.jpg)
+![cadimage](wallmount-cad.jpg)
+![motorplate](motor-plate-pic.jpg)
 
-![Description of image](image-filename.jpg)
-![Description of image](image-filename.jpg)
+![withholes](wallmount-holes.jpg)
+![stress](wallmount-stress-cad.jpg)
