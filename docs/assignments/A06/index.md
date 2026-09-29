@@ -28,3 +28,5 @@ a.-the dimension of the main block had to change during the making of my cad mod
 
 b. a tighter tolerance on my part is -.0005in and this is a critical feature because it will prevent sliding from the beam that is inserted into the part. A -.001 tolerance is not as specific as the other one. I did not add any tolerance to main parts of the structure because it would be pointless and from a manufacturing standpoint it would cost more.
 
+files-https://github.com/Gavin-Anderson-ME/-megr2157-portfolio/blob/main/docs/assignments/A06/bracket.SLDPRT
+https://github.com/Gavin-Anderson-ME/-megr2157-portfolio/blob/main/docs/assignments/A06/bracket.SLDDRW
