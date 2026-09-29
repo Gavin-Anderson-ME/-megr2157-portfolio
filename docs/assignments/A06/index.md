@@ -1,13 +1,11 @@
-# A6 – [Topic]
+# A6 – [Bracket drawing part-1]
 
-## Objective
-
-
-## Analyze
+## parmetric design
 
 
-## Decide
+## Drawing
 
 
-## Communicate
+## Reflection
+
 
