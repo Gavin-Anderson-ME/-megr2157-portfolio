@@ -2,6 +2,7 @@
 
 All of the designs are made from the same material and it is A36 Steel.
 Each element analysis number were taken from the finest mesh count that solid works could do.
+The masses of each object increase as the designs contue
 
 ## Design 1
 
@@ -27,4 +28,7 @@ safety factor of 251
 ![Description of image](displacment-3.jpg)
 
 ## reflection
+I would use the second design if I has to pick on for cost and how safe it is.
+
+Through this assinment I learned how different meshes work and how to do fea work in solidworks to help improve 3d designes.
 
