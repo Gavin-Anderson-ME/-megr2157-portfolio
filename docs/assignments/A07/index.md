@@ -32,5 +32,7 @@ I would use the second design if I has to pick on for cost and how safe it is.
 
 Through this assinment I learned how different meshes work and how to do fea work in solidworks to help improve 3d designes.
 
-[CAD-model]([https://example.com](https://github.com/Gavin-Anderson-ME/-megr2157-portfolio/blob/main/docs/assignments/A07/bracket.SLDPRT))
+[CAD-model]([https://example.com](https://github.com/Gavin-Anderson-ME/-megr2157-portfolio/blob/main/docs/assignments/A07/bracket.SLDPRT)
+https://github.com/Gavin-Anderson-ME/-megr2157-portfolio/blob/main/docs/assignments/A07/bracket.SLDPRT
+
 
