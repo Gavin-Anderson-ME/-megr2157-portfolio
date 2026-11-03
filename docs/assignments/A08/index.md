@@ -38,9 +38,6 @@ during this assignment I learned how to adjust a bearings size based off how the
 
 CAD files  [](https://github.com/Gavin-Anderson-ME/-megr2157-portfolio/blob/main/docs/assignments/A08/motor%20holder.SLDPRT)
 
-https://github.com/Gavin-Anderson-ME/-megr2157-portfolio/blob/main/docs/assignments/A08/gearbox.SLDASM<img width="347" height="467" alt="image" src="https://github.com/user-attachments/assets/e7c4529d-2c4b-46aa-994b-45476ed3b692" />
 
-
-
-
+https://github.com/Gavin-Anderson-ME/-megr2157-portfolio/blob/main/docs/assignments/A08/gearbox.SLDASM
 
