@@ -1,13 +1,13 @@
 # A8 – Gears
 
-## Objective
+## Input shaft
 
 
-## Analyze
+## output shaft
 
 
-## Decide
+## journal bearing
 
 
-## Communicate
+## CAD
 
