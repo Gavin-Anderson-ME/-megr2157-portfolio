@@ -1,13 +1,14 @@
 # A9 – Pulleys
 
-## Objective
+## Belt design
 
 
-## Analyze
+## shaft design
 
 
-## Decide
+## Journal bearing
 
 
-## Communicate
+## Frame
 
+## Lesson learned
