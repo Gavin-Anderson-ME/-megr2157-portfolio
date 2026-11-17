@@ -61,7 +61,7 @@ Here is a picture of just the crosshead as a 3d model and then the assembly as a
 The lesson that was learned while doing this is how a engineering team would operate with the sharing of calculations and ideas and actually looking over the cost of the object being built. we also learned how to use different calculations to calculate for different screws ans nuts sizes to on an object being pushed by a force.
 
 CAD files
-[https://raw.githubusercontent.com/<username>/<repository>/<branch>/<file_path]([(https://drive.google.com/file/d/1I00fF4V0uE2n4Pr1Ez5ty1VB8heysxTa/view?usp=sharing)>]((https://drive.google.com/file/d/1I00fF4V0uE2n4Pr1Ez5ty1VB8heysxTa/view?usp=sharing))
+[[https://raw.githubusercontent.com/<username](https://drive.google.com/file/d/1I00fF4V0uE2n4Pr1Ez5ty1VB8heysxTa/view?usp=sharing)>/<repository>/<branch>/<file_path]
 
 
 
