@@ -62,8 +62,8 @@ The lesson that was learned while doing this is how a engineering team would ope
 
 CAD files
 
-[[[https://raw.githubusercontent.com/<username>/<repository>/<branch>/<file_path>]([(https://drive.google.com/file/d/1I00fF4V0uE2n4Pr1Ez5ty1VB8heysxTa/view?usp=sharing))]]
-
+[[[https://raw.githubusercontent.com/<username>/<repository>/<branch>/<file_path>]([https://github.com/Gavin-Anderson-ME/-megr2157-portfolio/blob/main/docs/assignments/A04/motorplate.SLDPRT](https://drive.google.com/file/d/1I00fF4V0uE2n4Pr1Ez5ty1VB8heysxTa/view?usp=sharing))]]
+https://drive.google.com/file/d/1I00fF4V0uE2n4Pr1Ez5ty1VB8heysxTa/view?usp=sharing
 
 
 
