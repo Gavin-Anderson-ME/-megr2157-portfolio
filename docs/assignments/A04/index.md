@@ -42,7 +42,7 @@ This is the cad model of the wall mount with holes for screws or pins to be inst
 
 this is an image of the stress simulation that the wall mount will feel with the wall mount installed on it.
 
-CAD model links-  [[[https://raw.githubusercontent.com/<username>/<repository>/<branch>/<file_path>](https://github.com/Gavin-Anderson-ME/-megr2157-portfolio/blob/main/docs/assignments/A04/motorplate.SLDPRT)]]
+CAD model links- 
+[[[https://raw.githubusercontent.com/<username>/<repository>/<branch>/<file_path>](https://github.com/Gavin-Anderson-ME/-megr2157-portfolio/blob/main/docs/assignments/A04/motorplate.SLDPRT)]]
 
-[https://raw.githubusercontent.com/<username>/<repository>/<branch>/<file_path](https://github.com/Gavin-Anderson-ME/-megr2157-portfolio/blob/main/docs/assignments/A04/wallmount.SLDPRT)>
 
