@@ -1,13 +1,14 @@
 # A10 – Lead Screw Translating System
 
-## Objective
+## leadscrew diameter (Kiishi Ayoola)
 
 
-## Analyze
+## Nut and Flange (Kiishi Ayoola)
+## Design the Crosshead ( Gavin Anderson)
+## Tabulating Costs
+## Parametric Modeling
+
+## lesson learned
 
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
-
-## Communicate
 
