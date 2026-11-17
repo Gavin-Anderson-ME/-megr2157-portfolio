@@ -35,22 +35,33 @@ To find the nut and flange of the tensile tester, I considered the axial load tr
 
 In these photos you will find all of the calculations, FBDs and the drawings for the Crosshead. The final height was set to 20mm and it was 300mm long and the width was set to 80mm.
 
-![my truss system](A9-parameter.jpg)
+![my truss system](IMG_3644.jpeg)
 
-![my truss system](A9-parameter.jpg)
+![my truss system](IMG_3643.jpeg)
 
-![my truss system](A9-parameter.jpg)
+![my truss system](IMG_3642.jpeg)
 
 
 ## Tabulating Costs (Kiishi Ayoola)
 
+This is a photo of the cost sheet
+
+![my truss system](cost-sheet.png)
+
 ## Parametric Modeling (Gavin Anderson)
 
-![my truss system](A9-parameter.jpg)
+Here is a picture of just the crosshead as a 3d model and then the assembly as a whole.
 
-![my truss system](A9-parameter.jpg)
+![my truss system](crosshead.jpg)
+
+![my truss system](A10-final.jpg)
 
 ## lesson learned (Gavin Anderson)
+
+The lesson that was learned while doing this is how a engineering team would operate with the sharing of calculations and ideas and actually looking over the cost of the object being built. we also learned how to use different calculations to calculate for different screws ans nuts sizes to on an object being pushed by a force.
+
+CAD files
+<a href="[https://example.com](https://github.com/Gavin-Anderson-ME/-megr2157-portfolio/blob/main/docs/assignments/A10/a10-assem.SLDASM)">Visit Example</a>
 
 
 
