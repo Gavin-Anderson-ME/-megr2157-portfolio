@@ -5,10 +5,10 @@
 
 ## Nut and Flange (Kiishi Ayoola)
 ## Design the Crosshead ( Gavin Anderson)
-## Tabulating Costs
-## Parametric Modeling
+## Tabulating Costs (Kiishi Ayoola)
+## Parametric Modeling (Gavin Anderson)
 
-## lesson learned
+## lesson learned (Gavin Anderson)
 
 
 
